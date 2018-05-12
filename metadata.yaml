@@ -1,0 +1,30 @@
+_repo: Janet-Hardy-in-Hollywood_42069
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42069-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wheeler, Ruthe S.
+    gutenberg_agent_id: '36477'
+    url: http://www.gutenberg.org/2009/agents/36477
+description: ''
+gutenberg_issued: '2013-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motion picture industry -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Ambition -- Juvenile fiction'
+- !lcsh 'Hollywood (Los Angeles, Calif.) -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Actresses -- Juvenile fiction'
+- !lcsh 'Women in the theater -- Juvenile fiction'
+- !lcc 'PZ'
+title: Janet Hardy in Hollywood
+url: http://www.gutenberg.org/ebooks/42069
