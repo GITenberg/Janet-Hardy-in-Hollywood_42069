@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36477'
     url: http://www.gutenberg.org/2009/agents/36477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42069#Janet-Hardy-in-Hollywood
 gutenberg_issued: '2013-02-11'
 gutenberg_type: Text
 identifiers:
